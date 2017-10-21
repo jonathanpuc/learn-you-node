@@ -1,6 +1,6 @@
 # Learn You Node
 
-Contains solutions to Learn You Node by NodeSchool.
+Contains my solutions to Learn You Node course by NodeSchool.
 
 # Required
 Node Js.
